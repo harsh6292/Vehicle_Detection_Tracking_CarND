@@ -176,4 +176,4 @@ Another area of improvement would be the speed in determining and classifying ve
 
 ### References
 1. The project walkthrough provided by Udacity helped me a lot un understanding how to approach the problem and gave ideas when I got stuck in sliding window.
-https://www.youtube.com/watch?v=vWY8YUayf9Q&index=4&list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P
+https://www.youtube.com/watch?v=P2zwrTM8ueA&list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P&index=5
