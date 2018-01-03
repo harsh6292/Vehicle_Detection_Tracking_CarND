@@ -175,5 +175,5 @@ Another area where it might fail is the area where front of the car is there. Si
 Another area of improvement would be the speed in determining and classifying vehicles in images. The present algorithm takes 1-2 seconds to process an image which is not feasible in real-time environment where many cars are observed on the road. An advanced algorithm which keeps track of vehicle position from previous frames would perform slightly faster than the present algorithm.
 
 ### References
-1. The project walkthrough provided by Udacity helped me a lot un understanding how to approach the problem and gave ideas when I got stuck in sliding window.
+1. The project walkthrough provided by Udacity helped me a lot in understanding how to approach the problem and gave pointers of how to implement HOG sub-sampling search.
 https://www.youtube.com/watch?v=P2zwrTM8ueA&list=PLAwxTw4SYaPkz3HerxrHlu1Seq8ZA7-5P&index=5
